@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/inquizarus/gorest"
+	gorest "github.com/inquizarus/gorest"
 )
 
 func main() {
